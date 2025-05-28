@@ -70,26 +70,27 @@
 
 ## 💡 Featured Projects
 
-### 🌟 [Project Name 1](https://github.com/Stevanus123/project-1)
-Brief description of your amazing project. What technologies you used and what problem it solves.
+### 🌟 [Design RestFull Web API](https://github.com/Stevanus123/72230633_DRWapi1)
+Pemenuhan tugas Matakuliah Desain RestFull Web API.
 
-### 🌟 [Project Name 2](https://github.com/Stevanus123/project-2)
-Another cool project description. Highlight the key features and your role in the project.
+### 🌟 [Project Kalkulator](https://github.com/Stevanus123/Kalkulator)
+Kalkulator sederhana dengan styling pribadi yang cukup rumit wkwkkw.
 
-### 🌟 [Project Name 3](https://github.com/Stevanus123/project-3)
-Your third impressive project. Maybe mention any awards or recognition it received.
+### 🌟 [Project SIBOOK](https://github.com/Stevanus123/SIBOOK_663)
+Projek iseng berupa website penjualan buku sederhana.
 
 ## 🤝 Connect with Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevanus-denko-b26a1028a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/stevanus.denko)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevanusdenko46@gmail.com)
 
 </div>
+
+---
 
 ## 📈 Contribution Graph
 
