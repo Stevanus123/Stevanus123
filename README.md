@@ -76,7 +76,7 @@ Pemenuhan tugas Matakuliah Desain RestFull Web API.
 ### 🌟 [Project Kalkulator](https://github.com/Stevanus123/Kalkulator)
 Kalkulator sederhana dengan styling pribadi yang cukup rumit wkwkkw.
 
-### 🌟 [Project SIBOOK](https://github.com/Stevanus123/SIBOOK_663)
+### 🌟 [Project SIBOOK](https://github.com/Stevanus123/SIBOOK_633)
 Projek iseng berupa website penjualan buku sederhana.
 
 ## 🤝 Connect with Me
